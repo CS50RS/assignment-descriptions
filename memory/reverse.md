@@ -8,7 +8,7 @@
 
 [Опис](#фон)
 ------------------------
-<iframe width="1097" height="616" src="https://www.youtube.com/embed/J9iyqMwYtG4" title="Fire On High" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/embed/J9iyqMwYtG4
 
 У композиції Electric Light Orchestra «Fire on High» є щось незначне в першій хвилині музики. Якщо ви послухаєте, це звучить майже так, ніби аудіо відтворюється назад. Як виявилося, якщо відтворити початкову частину пісні навпаки, ви почуєте наступне:
 
